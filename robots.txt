@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/togel-populer/bab-4/sitemap.xml
